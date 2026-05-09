@@ -1,0 +1,17 @@
+{
+  "name": "@your-scope/sensor-academic-conferences",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@world2agent/sdk": "latest",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
