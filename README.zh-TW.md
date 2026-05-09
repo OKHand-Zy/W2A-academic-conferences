@@ -1,6 +1,6 @@
 # W2A-academic-conferences
 
-一個 [World2Agent](https://world2agent.com) 感測器，監控主要 AI/ML 學術會議，並在錄取論文公開時發出訊號。
+一個 [World2Agent](https://github.com/machinepulse-ai/world2agent) 感測器，監控主要 AI/ML 學術會議，並在錄取論文公開時發出訊號。
 
 ## 支援的會議
 

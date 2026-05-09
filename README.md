@@ -1,6 +1,6 @@
 # W2A-academic-conferences
 
-A [World2Agent](https://world2agent.com) sensor that monitors major AI/ML academic conferences and emits a signal when accepted papers become publicly available.
+A [World2Agent](https://github.com/machinepulse-ai/world2agent) sensor that monitors major AI/ML academic conferences and emits a signal when accepted papers become publicly available.
 
 ## Supported Conferences
 
